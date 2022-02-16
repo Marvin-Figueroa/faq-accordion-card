@@ -31,6 +31,7 @@ This is my solution to the [FAQ accordion card challenge on Frontend Mentor](htt
 - Semantic HTML5 markup
 - CSS Flexbox
 - Media Queries
+- Basic JavaScript DOM Manipulation
 
 ## Author
 
